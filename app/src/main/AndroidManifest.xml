@@ -16,7 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".ThTru2So"></activity>
+
+        <activity android:name=".CongActivity"></activity>
     </application>
 
 </manifest>
